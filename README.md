@@ -1,5 +1,8 @@
 # Thesis on Sleep Posture Recognition Using mmWave Radars and Deep Learning
 
+<img src="pic.png" alt="Alt text" width="500" height="350" align="center">
+
+
 ## **Abstract**
 The recognition of sleep posture is crucial across multiple domains, including:
 
