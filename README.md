@@ -23,3 +23,5 @@ Recent research has increasingly focused on utilizing **deep neural networks** f
 ---
 
 Feel free to explore the detailed implementation and results in the [article](https://drive.google.com/file/d/10_HBm2id6-Zkf7B1MfKB-SJZ3KDljbHs/view) or the full version of the [thesis](https://drive.google.com/file/d/1WWa_mYWF-Mln6dDwImnmDZ0IeA5gYVDP/view).
+
+For any questions or discussions, please contact me via [email](mailto:artemvorobiovpavlovich@yahoo.com).
