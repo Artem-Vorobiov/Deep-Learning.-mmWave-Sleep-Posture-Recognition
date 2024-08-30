@@ -1,6 +1,6 @@
 # Thesis on Sleep Posture Recognition Using mmWave Radars and Deep Learning
 
-<img src="pic.png" alt="Alt text" width="500" height="350" align="center">
+<img src="pic.png" alt="Alt text" width="400" height="400" align="center">
 
 
 ## **Abstract**
